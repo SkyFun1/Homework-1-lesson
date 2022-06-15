@@ -1,0 +1,15 @@
+C:\Users\Dina_\Desktop\c# практика\Дз\1дз\obj\Debug\net6.0\1дз.csproj.AssemblyReference.cache
+C:\Users\Dina_\Desktop\c# практика\Дз\1дз\obj\Debug\net6.0\1дз.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dina_\Desktop\c# практика\Дз\1дз\obj\Debug\net6.0\1дз.AssemblyInfoInputs.cache
+C:\Users\Dina_\Desktop\c# практика\Дз\1дз\obj\Debug\net6.0\1дз.AssemblyInfo.cs
+C:\Users\Dina_\Desktop\c# практика\Дз\1дз\obj\Debug\net6.0\1дз.csproj.CoreCompileInputs.cache
+C:\Users\Dina_\Desktop\c# практика\Дз\1дз\bin\Debug\net6.0\1дз.exe
+C:\Users\Dina_\Desktop\c# практика\Дз\1дз\bin\Debug\net6.0\1дз.deps.json
+C:\Users\Dina_\Desktop\c# практика\Дз\1дз\bin\Debug\net6.0\1дз.runtimeconfig.json
+C:\Users\Dina_\Desktop\c# практика\Дз\1дз\bin\Debug\net6.0\1дз.dll
+C:\Users\Dina_\Desktop\c# практика\Дз\1дз\bin\Debug\net6.0\1дз.pdb
+C:\Users\Dina_\Desktop\c# практика\Дз\1дз\obj\Debug\net6.0\1дз.dll
+C:\Users\Dina_\Desktop\c# практика\Дз\1дз\obj\Debug\net6.0\refint\1дз.dll
+C:\Users\Dina_\Desktop\c# практика\Дз\1дз\obj\Debug\net6.0\1дз.pdb
+C:\Users\Dina_\Desktop\c# практика\Дз\1дз\obj\Debug\net6.0\1дз.genruntimeconfig.cache
+C:\Users\Dina_\Desktop\c# практика\Дз\1дз\obj\Debug\net6.0\ref\1дз.dll
